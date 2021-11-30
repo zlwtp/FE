@@ -1,0 +1,16 @@
+{
+  "name": "@2haohr-major/front-ci",
+  "version": "0.0.1",
+  "description": "主项目/前端层-ci",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.18.0",
+    "@2haohr-major/front-ci-option": "0.0.1",
+    "@2haohr/cdn-babel-polyfill": "0.0.1",
+    "@2haohr/cdn-vue": "0.0.1",
+    "@2haohr/cdn-three": "0.0.1",
+    "@2haohr/front-launch-2-6": "0.0.1",
+    "@2haohr/pack-cdn": "0.0.1",
+    "@2haohr/shell": "0.0.1"
+  }
+}

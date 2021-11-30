@@ -1,0 +1,9 @@
+{
+  "name": "@2haohr/end-errors",
+  "version": "0.0.1",
+  "description": "主项目/end-errors",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {
+  }
+}

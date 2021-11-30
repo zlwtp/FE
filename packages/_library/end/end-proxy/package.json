@@ -1,0 +1,10 @@
+{
+  "name": "@2haohr/end-proxy",
+  "version": "0.0.1",
+  "description": "end-proxy",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "koa-proxies": "0.8.1"
+  }
+}

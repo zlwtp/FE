@@ -1,0 +1,11 @@
+{
+  "name": "@2haohr-major/front-ci-pkg",
+  "version": "0.0.1",
+  "description": "主项目/前端层-ci-pkg",
+  "license": "MIT",
+  "dependencies": {
+    "@2haohr-major/front-ci-option": "0.0.1",
+    "@2haohr/front-launch-2-6": "0.0.1",
+    "@2haohr/pack-cdn": "0.0.1"
+  }
+}

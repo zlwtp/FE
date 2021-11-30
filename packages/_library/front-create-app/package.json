@@ -1,0 +1,11 @@
+{
+  "name": "@2haohr/front-create-app",
+  "version": "0.0.1",
+  "description": "vue-create-app",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@2haohr/front-deferred": "0.0.1",
+    "vue": "2.6.10"
+  }
+}

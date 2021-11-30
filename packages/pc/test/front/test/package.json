@@ -1,0 +1,12 @@
+{
+  "name": "@2haohr-major-front/test",
+  "version": "0.0.1",
+  "description": "主项目-前端层/报告老板",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@2haohr-major/front-ci": "0.0.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@2haohr/end-env",
+  "version": "0.0.1",
+  "description": "end-env",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {
+  }
+}

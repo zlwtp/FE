@@ -1,0 +1,11 @@
+{
+    "name": "@2haohr/end-livereload",
+    "version": "0.0.1",
+    "description": "end-livereload",
+    "main": "./src/index.js",
+    "license": "MIT",
+    "dependencies": {
+        "socket.io": "2.2.0"
+    },
+    "devDependencies": {}
+}

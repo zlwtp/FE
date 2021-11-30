@@ -1,0 +1,8 @@
+{
+  "name": "@2haohr-major/front-store-interceptor",
+  "version": "0.0.1",
+  "description": "主项目/前端层 store interceptor",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {}
+}

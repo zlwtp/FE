@@ -1,0 +1,11 @@
+{
+  "name": "@2haohr/end-logger",
+  "version": "0.0.1",
+  "description": "end-logger",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@2haohr/end-env": "0.0.1",
+    "dayjs": "1.8.0"
+  }
+}

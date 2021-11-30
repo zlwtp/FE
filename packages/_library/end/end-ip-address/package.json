@@ -1,0 +1,8 @@
+{
+  "name": "@2haohr/end-ip-address",
+  "version": "0.0.1",
+  "description": "get-ip",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {}
+}

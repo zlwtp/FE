@@ -1,0 +1,13 @@
+{
+    "name": "@2haohr/cdn-three",
+    "version": "0.0.1",
+    "description": "cdn-three",
+    "license": "MIT",
+    "main": "./src/index.js",
+    "scripts": {
+        "prepare": "node ci/build.js"
+    },
+    "devDependencies": {
+        "@2haohr/cdn-ci": "0.0.1"
+    }
+}

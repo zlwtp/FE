@@ -1,0 +1,25 @@
+{
+    "name": "@2haohr-major/server",
+    "version": "0.0.1",
+    "description": "主项目/服务-桌面浏览器平台",
+    "dm": {
+        "index": 3101
+    },
+    "license": "MIT",
+    "dependencies": {
+        "@2haohr-major-front/test": "0.0.1",
+        "@2haohr-major/end-modify-html": "0.0.1",
+        "@2haohr-major/front-app": "0.0.1",
+        "@2haohr/end-create-app": "0.0.1",
+        "@2haohr/end-create-router": "0.0.1",
+        "@2haohr/end-static": "0.0.1"
+    },
+    "devDependencies": {
+        "@2haohr/end-middleware": "0.0.1",
+        "@2haohr/end-ip-address": "0.0.1",
+        "@2haohr/end-livereload": "0.0.1",
+        "@2haohr/end-proxy": "0.0.1",
+        "@2haohr/nodemon": "0.0.1",
+        "@2haohr/pack-docker": "0.0.1"
+    }
+}

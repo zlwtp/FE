@@ -1,0 +1,8 @@
+{
+  "name": "@2haohr-major/front-ci-option",
+  "version": "0.0.1",
+  "description": "主项目/前端层-ci-option",
+  "main": "./index.js",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,42 @@
+{
+  "name": "@web/root",
+  "description": "2号人事部项目",
+  "license": "MIT",
+  "repository": "http://gitlab-test.dianmi365.com:81/dianmi-fe/2haohr",
+  "scripts": {
+    "ci:build": "node scripts/ci-build",
+    "ci:deploy": "node scripts/ci-deploy",
+    "ci:test": "node scripts/ci-test",
+    "cli": "node scripts/cli",
+    "start": "node scripts/upgrade && node scripts/start 1",
+    "startFetch": "node scripts/upgrade && node scripts/start 2",
+    "startInstall": "node scripts/upgrade && node scripts/start 4",
+    "startAll": "node scripts/upgrade && node scripts/start 7",
+    "test": "mocha scripts/test"
+  },
+  "dependencies": {
+    "@dianmi-fe/eslint-config-vue": "^1.1.2",
+    "@dianmi-fe/prettier-config": "^1.0.2",
+    "@dianmi-fe/stylelint-config": "^1.0.1",
+    "axios": "0.18.0",
+    "chalk": "2.4.1",
+    "commander": "4.1.0",
+    "dotgitignore": "2.1.0",
+    "eslint": "^7.22.0",
+    "fs-extra": "7.0.1",
+    "gaze": "1.1.2",
+    "husky": "4.2.3",
+    "inquirer": "7.0.3",
+    "lerna": "4.0.0",
+    "log-update": "3.3.0",
+    "mocha": "6.2.2",
+    "nodemailer": "4.6.7",
+    "ora": "2.1.0",
+    "prettier": "^2.2.1",
+    "shelljs": "0.8.1",
+    "signal-exit": "3.0.2",
+    "stylelint": "^13.12.0",
+    "text-table": "0.2.0",
+    "p-limit": "^3.1.0"
+  }
+}

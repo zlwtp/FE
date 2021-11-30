@@ -1,0 +1,8 @@
+{
+  "name": "@2haohr/front-websocket",
+  "version": "0.0.1",
+  "description": "websocket",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {}
+}

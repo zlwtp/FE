@@ -1,0 +1,23 @@
+{
+    "name": "@2haohr-major/front-app",
+    "version": "0.0.1",
+    "description": "主项目/前端层-启动",
+    "main": "./.dm/runtime.js",
+    "license": "MIT",
+    "dependencies": {
+        "dm-ui": "1.0.15",
+        "@2haohr/front-env": "0.0.1",
+        "@2haohr/front-store": "0.0.1",
+        "@2haohr/front-router": "0.0.1",
+        "@2haohr-major/front-store-interceptor": "0.0.1",
+        "@2haohr/front-create-app": "0.0.1",
+        "@2haohr/front-websocket": "0.0.1",
+        "@2haohr/front-reset-css": "0.0.1",
+        "@2haohr/front-api": "0.0.1",
+        "element-ui": "2.15.6",
+        "@2haohr/front-util": "0.0.1"
+    },
+    "devDependencies": {
+        "@2haohr-major/front-ci-pkg": "0.0.1"
+    }
+}
